@@ -1,4 +1,4 @@
-# faceos.io
+# faceos.app
 
 ### visit site
-- http://faceos.io
+- http://faceos.app
